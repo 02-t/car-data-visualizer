@@ -1,0 +1,50 @@
+company,model,production year,motor capacity,power,fuel,km driven,color,state,gearbox,driver hand,price
+BMW,Seria 5,2018,2993,340,Benzina,115000,Gri,used,auto,left-side drive,42900
+BMW,X6,2011,3000,-,Diesel,191000,Negru,-,auto,left-side drive,14500
+Skoda,Octavia,2012,1600,105,Diesel,281000,Gri,used,manual,left-side drive,5000
+Kia,Sportage,2017,1700,141,Diesel,179000,Alb,used,auto,left-side drive,16500
+Mercedes-Benz,Clasa GLC,2020,1991,211,Hibrid,44500,Alb,used,auto,left-side drive,52950
+Peugeot,308,2012,1600,110,Diesel,233000,-,used,manual,left-side drive,4000
+Audi,A4,2013,1968,119,Diesel,256336,Maro / Bej,used,manual,left-side drive,8490
+Mercedes-Benz,Clasa B,2012,1796,109,Diesel,249000,Gri,used,manual,left-side drive,6500
+Nissan,Patrol,2005,2953,160,Diesel,192000,Gri,used,manual,left-side drive,20000
+Mercedes-Benz,Clasa S,1991,5000,380,Benzina,224,Albastru,used,auto,right-side drive,20000
+Volkswagen,Transporter,2007,2498,131,Diesel,309000,-,used,manual,-,5200
+Opel,Vectra,2006,1900,-,Diesel,300000,Albastru,used,manual,left-side drive,1500
+Volkswagen,Golf,2010,1400,80,Benzina,100600,Argintiu,-,manual,-,6100
+Dacia,Logan,2018,1461,75,Diesel,165000,Alb,used,manual,left-side drive,5700
+Suzuki,SX4,2012,1586,120,Benzina,95000,Gri,used,manual,left-side drive,6400
+BMW,Seria 5,2018,1998,190,Diesel,132000,Negru,used,auto,left-side drive,25999
+Skoda,Octavia,2016,1598,110,Diesel,178000,Alb,used,auto,left-side drive,15199
+BMW,Seria 3,2016,1995,116,Diesel,215000,Negru,used,auto,left-side drive,11950
+Mercedes-Benz,Clasa S,2002,2998,224,Diesel,221,Negru,used,auto,-,4900
+Volkswagen,Touareg,2013,2998,204,Diesel,256000,Negru,used,auto,left-side drive,14800
+Mercedes-Benz,Clasa S,2018,2925,340,Diesel,84140,Negru,used,auto,left-side drive,51500
+Dacia,Logan,2022,1000,-,GPL,70000,Alb,used,manual,left-side drive,7900
+Dacia,Logan,-,-,-,-,-,-,-,-,-,6500
+Ford,Kuga,2010,2000,140,Diesel,248000,Negru,used,auto,left-side drive,7490
+Opel,Astra,2006,1900,150,Diesel,295000,Negru,used,manual,left-side drive,2600
+BMW,X3,2016,1995,190,Diesel,155000,Gri,used,auto,left-side drive,21500
+Hyundai,Terracan,2004,2900,150,Diesel,257000,Gri,used,manual,left-side drive,3450
+Dacia,Logan,2017,999,75,Benzina,25800,Galben / Auriu,used,manual,left-side drive,7650
+Audi,A5,2009,1990,212,Benzina,222000,Negru,used,manual,left-side drive,7150
+Volkswagen,Tiguan,2017,2000,150,Diesel,-,Alb,used,auto,left-side drive,19990
+Kia,Shuma,2003,1600,80,Benzina,130000,Verde,used,manual,left-side drive,1100
+Nissan,Juke,2017,1461,110,Diesel,138000,Negru,used,manual,left-side drive,11000
+Seat,Leon,2014,1598,105,Diesel,189000,Negru,used,manual,left-side drive,7499
+Opel,Astra,2001,1598,101,Benzina,193008,Argintiu,used,manual,left-side drive,1800
+Maserati,Levante,2017,2987,275,Diesel,71000,Gri,used,auto,left-side drive,38000
+Mitsubishi,Eclipse-Cross,2021,2360,-,Hibrid,25000,Albastru,used,auto,left-side drive,30000
+Opel,Insignia,2016,1598,136,Diesel,180000,Gri,used,manual,left-side drive,10400
+Peugeot,508,2011,1560,115,Diesel,220000,Gri,used,manual,left-side drive,8400
+BMW,Seria 3,2007,1995,163,Diesel,238000,Gri,used,manual,left-side drive,5650
+BMW,Seria 5,2006,1995,163,Diesel,268000,Gri,used,manual,left-side drive,5600
+Mercedes-Benz,Clasa A,2007,1498,95,GPL,110450,Rosu,used,manual,left-side drive,4999
+Volkswagen,up!,2019,999,60,Benzina,160000,-,used,-,left-side drive,5800
+BMW,Seria 4,2016,1995,190,Diesel,255000,Negru,used,auto,left-side drive,18500
+Dacia,Logan,2005,1400,75,Benzina,95560,Albastru,new,manual,left-side drive,1999
+Mercedes-Benz,Clasa S,2018,-,340,Diesel,149000,Negru,new,auto,left-side drive,56500
+Audi,A3,2016,1595,101,Diesel,197000,Gri,used,auto,left-side drive,11600
+Audi,A3,2005,-,250,Benzina,150000,Negru,used,auto,left-side drive,4500
+Volkswagen,Passat,2012,1968,140,Diesel,162000,Negru,-,auto,-,8800
+Mercedes-Benz,Vito,2014,2143,-,Diesel,290000,Verde,used,manual,left-side drive,7500
